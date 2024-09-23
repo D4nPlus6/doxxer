@@ -1,8 +1,8 @@
 # doxxer
 What a website knows about you: Meme edition
-
-**Inspired by doxxer made by uint128-t**                     
+                     
 ~~Inspired by https://www.youtube.com/watch?v=7hgEyZGjMCk~~
+**Inspired by doxxer made by uint128-t**
 
 (this website will COLLECT and possibly SELL your data and all sites know this anyways)
 
